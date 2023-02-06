@@ -8,6 +8,10 @@ info:
 servers:
   - url: http://localhost:3000/
     description: Local deployment server
+  - url: https://backend-deploy-production-3ef1.up.railway.app
+    description: Ambient of production server
+  - url: https://backend-deploy-step-1.up.railway.app
+    description: Ambient of development server
 
 paths:
 
